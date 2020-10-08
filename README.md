@@ -1,4 +1,4 @@
-"# Medizin" 
+"#Medizin" 
 
 SASEHack 2020
 
